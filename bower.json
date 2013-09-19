@@ -1,0 +1,17 @@
+{
+  "version": "0.2.6",
+  "name": "Lightweight-JSONP",
+  "main": "jsonp.js",
+  "ignore": [
+    "examples",
+    "node_modules",
+    "components",
+    "vendor",
+    "build",
+    "config",
+    "**/.*",
+    "**/*.json",
+    "**/*.html",
+    "bower_components"
+  ]
+}
