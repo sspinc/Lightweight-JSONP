@@ -78,4 +78,5 @@ define([], function() {
       init:setDefaults
     };
   }());
-}).call(this);
+});
+
